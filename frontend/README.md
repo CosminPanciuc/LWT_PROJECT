@@ -1,7 +1,3 @@
-# Marketplace Frontend
-
-A modern React + TypeScript frontend for the GraphQL marketplace backend.
-
 ## Features
 
 - 🔐 **Authentication**: User registration and login with JWT tokens
